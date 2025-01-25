@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Steven Indriano
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Steven Indriano
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Steven
+last_name: Indriano
 
 # Status emoji
 status:
@@ -33,14 +33,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/stevenindriano
   - icon: brands/github
-    url: https://github.com/gcushen
+    url:  
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/stevenindriano/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -52,8 +50,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Universitas Multimedia Nusantara
+    institution: Bachelors Degree - Computer Science
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
